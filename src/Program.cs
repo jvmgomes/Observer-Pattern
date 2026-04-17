@@ -6,9 +6,9 @@ namespace Observer_Pattern
     {
         static void Main(String[] args)
         {
-            Pcd tapajos = new Pcd();
-            Pcd solimoes = new Pcd();
-            Pcd negro = new Pcd();
+            Pcd tapajos = new Pcd("Tapajós");
+            Pcd solimoes = new Pcd("Solimões");
+            Pcd negro = new Pcd("Negro");
             tapajos.addObserver(new University ("Unifesp"));
             tapajos.addObserver(new University ("Usp"));
             tapajos.addObserver(new University ("Unip"));

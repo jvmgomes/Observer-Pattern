@@ -4,6 +4,18 @@ namespace Observer_Pattern
 {
     public class Pcd : Subject
     {
+
+        private string riverName;
+
+        public Pcd(String name)
+        {
+            this.riverName = name;
+        }
+
+        public string getRiverName()
+        {
+            return riverName;
+        }
         private double temp;
         private double ph;
         private double umid_ar;
