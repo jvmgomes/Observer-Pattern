@@ -1,0 +1,14 @@
+C:\Ws\projoo\Observer-Pattern\src\bin\Debug\net9.0\Observer-Pattern.exe
+C:\Ws\projoo\Observer-Pattern\src\bin\Debug\net9.0\Observer-Pattern.deps.json
+C:\Ws\projoo\Observer-Pattern\src\bin\Debug\net9.0\Observer-Pattern.runtimeconfig.json
+C:\Ws\projoo\Observer-Pattern\src\bin\Debug\net9.0\Observer-Pattern.dll
+C:\Ws\projoo\Observer-Pattern\src\bin\Debug\net9.0\Observer-Pattern.pdb
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.AssemblyInfoInputs.cache
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.AssemblyInfo.cs
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.csproj.CoreCompileInputs.cache
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.dll
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\refint\Observer-Pattern.dll
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.pdb
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.genruntimeconfig.cache
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\ref\Observer-Pattern.dll
