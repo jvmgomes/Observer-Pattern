@@ -12,3 +12,4 @@ C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\refint\Observer-Pattern.dll
 C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.pdb
 C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.genruntimeconfig.cache
 C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\ref\Observer-Pattern.dll
+C:\Ws\projoo\Observer-Pattern\src\obj\Debug\net9.0\Observer-Pattern.sourcelink.json

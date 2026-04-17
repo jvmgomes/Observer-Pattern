@@ -4,6 +4,6 @@ namespace Observer_Pattern
 {
     public interface IObserver
     { 
-        public void update (Subject s)  ;
+        public void update (Subject s, String universityName)  ;
     }
 }

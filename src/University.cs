@@ -14,14 +14,21 @@ namespace Observer_Pattern
         {
             this.universityName = name;
         }
-        public void update (Subject s)
+
+        public string getUniversityName()
+        {
+            return universityName;
+        }
+        public void update (Subject s, String universityName)
         {
             double temp = ((Pcd) s).getTemp();
-            double ph = ((Pcd) s).getTemp();
-            double umid_ar = ((Pcd) s).getTemp();
+            double ph = ((Pcd) s).getPh();
+            double umid_ar = ((Pcd) s).getUmid();
+            Console.WriteLine("Medições da " + universityName);
             Console.WriteLine("Temperatura Celsius: " + temp);
             Console.WriteLine("Ph da água: " + ph);
             Console.WriteLine("Umidade do ar: " + umid_ar + "%");
+            Console.WriteLine("\n");
         
         
         }
