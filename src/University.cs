@@ -19,7 +19,7 @@ namespace Observer_Pattern
         {
             return universityName;
         }
-        public void update (Subject s, String universityName)
+        public void update (Subject s)
         {
             double temp = ((Pcd) s).getTemp();
             double ph = ((Pcd) s).getPh();
